@@ -38,8 +38,6 @@
 * ![HTML][HTML]
 * ![CSS][CSS]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Screenshots
@@ -47,6 +45,7 @@
 [![Product Name Screen Shot][product-screenshot-1]](https://ftrbnd.github.io/odin-recipes/)
 [![Product Name Screen Shot][product-screenshot-2]](https://ftrbnd.github.io/odin-recipes/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
