@@ -20,7 +20,7 @@
 <h3 align="center">Recipes</h3>
 
   <p align="center">
-    The first project The Odin Project's Foundations course
+    The first project in The Odin Project's Foundations course
     <br />
     <a href="https://www.theodinproject.com/lessons/foundations-recipes"><strong>View the assignment »</strong></a>
     ·
